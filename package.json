@@ -1,0 +1,13 @@
+{
+  "name": "shell-timeout",
+  "version": "2019.5.7",
+  "description": "timeout command",
+  "keywords": [
+    "timeout"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/shell-timeout",
+  "license": "Unlicense",
+  "bin": {
+    "timeout": "./scripts/timeout"
+  }
+}
