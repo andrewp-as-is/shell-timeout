@@ -1,6 +1,6 @@
 {
   "name": "shell-timeout",
-  "version": "2019.5.7",
+  "version": "2019.5.8",
   "description": "timeout command",
   "keywords": [
     "timeout"
